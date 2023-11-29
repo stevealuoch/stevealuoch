@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stevealuoch
 - 👀 I’m interested in Cloud Computing 
-- 🌱 I’m currently learning Systems Engineering and DevOps
+- 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me {stevealuoch@stotalis.com}
 
